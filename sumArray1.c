@@ -4,6 +4,7 @@
 int main(void) {
     
 	int N, i;
+	printf("Number of variables wantg to add: ");
 	scanf("%d", &N);
  
 	int numArray[N]; // Define an array of four integers
